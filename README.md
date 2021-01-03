@@ -1,2 +1,3 @@
 # HelloRoochMang
-First Respository
+#First Respository
+print('Hello',' ','RoochMang')
